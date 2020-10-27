@@ -56,7 +56,7 @@
 
 ### В результате тестирования выявлены следующие дефекты 
 
-[](https://github.com/Andrew2380/NEW-IntelliJ-IDEA/issues/1)
+[Вывод отображается некорректно при смене номера карты в Коде в программе IntelliJ IDEA](https://github.com/Andrew2380/NEW-IntelliJ-IDEA/issues/1)
 
 
 
