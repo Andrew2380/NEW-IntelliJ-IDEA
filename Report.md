@@ -75,7 +75,7 @@
 
 [Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
 
-[Сервис freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html)
+[Сервис банковских карт - freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
 
 
